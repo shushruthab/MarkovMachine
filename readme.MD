@@ -20,7 +20,8 @@ jest
 // Run script
 node makeText.js file eggs.txt
 // generated text from file 'eggs.txt'
-OR
+
+//OR
 
 node makeText.js url http://www.gutenberg.org/files/11/11-0.txt
 //generated text from that URL
